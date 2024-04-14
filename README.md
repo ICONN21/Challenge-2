@@ -22,18 +22,21 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
 Part 1:
-Adding images to the page was relatively straigthforward. I had some difficulty when tring to airdorp the pictures from my phone to my computer. The pictures were not appearing in the correct fromat. While I could have convereted the images into a different format, I found if is imply screenshot the pictures, the links worked great and I was able to acomplish the intended goal. From there, it was simply a matter of styling the images to the desired format. 
+Incorporating images into the page proved to be a relatively straightforward task. However, I encountered a minor challenge when attempting to transfer the images from my phone to my computer via airdrop. The images weren't appearing in the correct format initially. While I could have converted the images to a different format, I found that simply screenshotting them resolved the issue, and the links worked seamlessly, allowing me to achieve the intended goal effortlessly. Subsequently, styling the images to the desired format was a straightforward process.
 
-Part 2: 
-Linking the Nav links to the sections of the webpage requires a bit of research but in the end was rather simple. Creating unique ID's to the different sections of the webpage and filling them in after the "href" worked perfectly. The requirement for the images to be titles required adding an additonal 'p' tag to the ul. Giving the 'p tags' a class of "image-caption" made it easier to apply some styling to get things to line up how I wanted them.
+Part 2:
+Linking the navigation links to the sections of the webpage required some initial research, but ultimately, it was a straightforward task. Creating unique IDs for the different sections of the webpage and incorporating them into the "href" attribute worked perfectly. Additionally, fulfilling the requirement for the images to have titles necessitated adding an additional 'p' tag to the 'ul'. Assigning a class of "image-caption" to the 'p' tags facilitated easier styling to ensure alignment according to my preferences.
 
 Part 3:
-In order to make the first image appear larger than the other two, I origanally added a class called 'larger-image'. The changes were not sticking due to other styleing that was taking precedence. By chaing the class to an id, the styling stuck and my image increased in size. After playing around with it a bit more to get the correct width and ensuring that it did not cover any other information when hoving over with the mouse, I got my intended design. 
+To ensure that the first image appeared larger than the other two, I initially attempted to apply a class called 'larger-image'. However, I encountered difficulties as other styles were taking precedence. By changing the class to an ID, the styling persisted, resulting in the desired increase in image size. After some experimentation to determine the optimal width and ensure that it didn't obscure any other information when hovered over with the mouse, I achieved the intended design.
 
 Part 4:
-Linking the image to the desired webpage was pretty straightforward. The trick here was that given I am still in the beginning of my development career, I only had one project to link to! Becuase of this I created a couple other links to some popular websites in order to keep witht he design of the webpage and make things look better. I will continue to update the webpage with additional projects as they deevlop. 
+Linking the image to the desired webpage was a straightforward process. However, as I am still in the early stages of my development career, I only had one project to link to. To maintain the design consistency of the webpage and enhance its appearance, I created additional links to some popular websites. I plan to continually update the webpage with additional projects as they develop over time.
 
 Part 5:
-The final step in this process was to style the page to fit different formats such as mobile and desktop. To acheive this I used the
-
+The final step in this process involved styling the page to accommodate various screen formats, including mobile and desktop. To achieve this, I utilized the 'flex-wrap: wrap;' property, allowing the elements to wrap around themselves as the screen size decreases. While media screen breaks could have been employed, I achieved the desired outcome efficiently with the 'flex-wrap' property, minimizing the need for additional lines of code.
     
+
+https://github.com/ICONN21/Challenge-2
+
+Ian Connor 
